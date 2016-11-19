@@ -1,2 +1,1 @@
-Welcome to git 
-This is second fix
+Welcome to gi:econd fix
